@@ -1,0 +1,19 @@
+*.xlsx
+!examples/*.xlsx
+!lib/test/*.xlsx
+
+# Logs
+logs/*
+!logs/.gitkeep
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
